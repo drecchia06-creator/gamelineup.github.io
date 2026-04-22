@@ -1,4 +1,4 @@
-{import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 
 const UDJ = {
   maroon: "#6B1F2A",
